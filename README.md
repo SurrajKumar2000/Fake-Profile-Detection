@@ -5,10 +5,6 @@ This is a project where training models
 
 We have trained them in SVM, RandomForest and a 3-layered ANN which gave an accurary of 93%-98% on the test set.
 
-CONCLUSION:
-      
-        Among all other classifier methods the RandomForest classifier method gives greater accuracy.
-
 
 REQUIREMENTS:
 
@@ -20,4 +16,8 @@ REQUIREMENTS:
             sexmachine==0.1.1
             pip==6.0.8
             scikit-learn==0.17
+
+CONCLUSION:
+      
+        Among all other classifier methods the RandomForest classifier method gives greater accuracy.
 

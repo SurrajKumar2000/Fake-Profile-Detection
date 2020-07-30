@@ -4,6 +4,6 @@
 
 This is  a project where training models
 
-We have trained them in SVM, RandomForest and a 3-layered ANN which gave an accurary of 98% on the test set.
+We have trained them in SVM, RandomForest and a 3-layered ANN which gave an accurary of 93%-98% on the test set.
 
 

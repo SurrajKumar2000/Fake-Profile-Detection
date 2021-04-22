@@ -20,6 +20,6 @@ We have trained them in SVM, RandomForest and a 3-layered ANN which gave an accu
 
 # CONCLUSION:
       
-        Among all other classifier methods the RandomForest classifier method gives greater accuracy.
+   Among all other classifier methods the RandomForest classifier method gives greater accuracy.
 
 

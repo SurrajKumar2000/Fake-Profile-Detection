@@ -5,8 +5,7 @@ This is a project where training models
 
 We have trained them in SVM, RandomForest and a 3-layered ANN which gave an accurary of 93%-98% on the test set.
 
-
-REQUIREMENTS:
+# REQUIREMENTS:
 
             matplotlib==1.4.3
             pandas==0.16.2
@@ -19,7 +18,7 @@ REQUIREMENTS:
 
 ![485021_1_En_3_Fig1_HTML](https://user-images.githubusercontent.com/68986795/115755870-6d20a580-a3bb-11eb-9bed-3c83a67527cb.png)
 
-CONCLUSION:
+# CONCLUSION:
       
         Among all other classifier methods the RandomForest classifier method gives greater accuracy.
 

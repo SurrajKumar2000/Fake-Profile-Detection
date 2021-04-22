@@ -17,6 +17,11 @@ REQUIREMENTS:
             pip==6.0.8
             scikit-learn==0.17
 
+
+![download](https://user-images.githubusercontent.com/68986795/115755713-45314200-a3bb-11eb-8871-5d0b87f3e65e.jpg)
+
+
+
 CONCLUSION:
       
         Among all other classifier methods the RandomForest classifier method gives greater accuracy.
